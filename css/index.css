@@ -144,7 +144,9 @@ footer p{
 	border-radius: 10px;
 	cursor: pointer;
 }
-
+.totop:hover{
+	background-color: rgb(117, 253, 255,1);
+}
 .life img{
 	width: 20%;
 
