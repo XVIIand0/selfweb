@@ -151,3 +151,19 @@ footer p{
 	width: 20%;
 
 }
+canvas{
+	width:20%;
+	float: left;
+}
+#input {
+    vertical-align: middle;
+    display: none;
+    width: 20%;
+  }
+  .hide_it{
+  	display: none;
+  }
+ .back{
+ 	display: inline !important;
+ 	float: left;
+ }
